@@ -1,4 +1,6 @@
-# hot-gitato
+# Hot Gitato
+
+Let's learn whilst being deceptive!
 
 ## 1. Fran's update
 
