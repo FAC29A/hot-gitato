@@ -10,5 +10,8 @@ I have merged your pull request and have added some html for you to check 🙂. 
 
 Typos found, well played
 
+### Lucien again 
+Just made a little animation now the logo is rolling!   @jason I don't know why i can't see your branch being merge to the main. but i did see your change somewhere. Git is very naughty
+
 
 
