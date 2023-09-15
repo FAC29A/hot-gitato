@@ -1,6 +1,6 @@
 # hot-gitato
 
-##Lucien suggestion >>
+## Lucien suggestion >>
 
 Hey everyone! 
 
@@ -12,7 +12,8 @@ Currently I am waiting for my pull request to be approved and merge by programme
 
 The website I set-up have 3 poteintal issues to solve ( can also add another issue such as centeralise the title ..etc ) 
 
-
+## Fran's update
+I have merged your pull request and have added some html for you to check 🙂. Happy coding!
 
 
 
