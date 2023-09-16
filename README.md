@@ -21,5 +21,4 @@ Just made a little animation: now the logo is rolling!
 
 ## Chat
 
-- **Lucien:** @jason I don't know why i can't see your branch being merge to the main but i did see your change somewhere. Git is very naughty
-  - **Jason:** I didn't merge anything, I only reviewed and commented!
+- ** move to "discussion" tab 
