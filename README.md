@@ -16,10 +16,10 @@ I have merged your pull request and have added some html for you to check 🙂. 
 
 Typos found, well played
 
-### 2. Lucien 
-add a little animation and styling : 
+### 2. Lucien's update 
+Add a little animation and styling : 
 now the github logo is rolling! 
 
 ## Chat
 
-- ** move to "discussion" tab 
+- move to "discussion" tab 
