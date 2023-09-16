@@ -31,12 +31,12 @@ You do you, but here's a suggested flow that'll keep the game going
 
 #### How to Be a Chaos Gremlin
 
-1. Pick an open issue.
+1. Pick an open issue. Assign yourself to the issue.
 2. Create a branch and name it something relevant
 3. Come up with a fix for the issue in your branch.
 4. For extra points, simultaneously create a new problem in your code, so that a future issue can be raised in the game
 5. Go through the usual steps (pull from main, reconcile changes, stage, commit, push) in whatever coding environment you're using
-6. Create a Pull Request and assign any players you'd like to review the code
+6. Create a Pull Request and request any players you'd like to review the code
 
 #### How to Be a Judgemental Rival
 
