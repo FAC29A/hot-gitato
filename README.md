@@ -16,8 +16,9 @@ I have merged your pull request and have added some html for you to check 🙂. 
 
 Typos found, well played
 
-### Lucien again 
-Just made a little animation: now the logo is rolling!
+### 2. Lucien 
+add a little animation and styling : 
+now the github logo is rolling! 
 
 ## Chat
 
