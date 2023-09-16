@@ -6,20 +6,28 @@ Let's learn whilst being deceptive!
 
 - **Jason**: I added a protection to the main branch so that it can only be merged into when someone else has reviewed a pull request
 
-## Game History
+## Game State
 
-### 1. Fran's update
+### Approved Merges
+
+#### Merge 1: Fran's HTML
 
 I have merged your pull request and have added some html for you to check 🙂. Happy coding!
 
-#### 1A. Jason's Review
+##### Review 1A
 
-Typos found, well played
+**Jason**: Typos found, well played
 
-### 2. Lucien 
+#### Merge 2: Jason's HTML Fixes
+
+##### Review 2A: Lucien
+
+### Merges Awaiting Review
+
+#### Lucien's CSS
 add a little animation and styling : 
-now the github logo is rolling! 
+now the github logo is rolling!
 
-## Chat
+### Open Issues
 
-- ** move to "discussion" tab 
+#### Jason's Bad Semantics
