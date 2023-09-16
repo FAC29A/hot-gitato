@@ -16,10 +16,10 @@ I have merged your pull request and have added some html for you to check 🙂. 
 
 Typos found, well played
 
-### Lucien again 
-Just made a little animation: now the logo is rolling!
+### 2. Lucien 
+add a little animation and styling : 
+now the github logo is rolling! 
 
 ## Chat
 
-- **Lucien:** @jason I don't know why i can't see your branch being merge to the main but i did see your change somewhere. Git is very naughty
-  - **Jason:** I didn't merge anything, I only reviewed and commented!
+- ** move to "discussion" tab 
