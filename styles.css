@@ -1,0 +1,29 @@
+/*Jason: I cleaned up the readability a little, but your CSS skills are beyond mine so I ain't touched it*/
+
+* {font-family: 'Rubik Mono One', sans-serif;}
+
+body{
+    background: linear-gradient(350deg, #8D84DC, #E18D07);
+    color:#F6EFEE
+}
+
+header {text-align: center;}
+
+img{
+    width: 3rem; 
+    animation: bounce 5s linear; 
+}
+
+@keyframes bounce {
+    20%, 50%, 80%, to{
+        transform: translateX(0)
+    }
+    40%{
+        transform: translateX(-1000px)
+    }
+    70%{
+        transform: translateX(1000px)
+    }
+}
+    
+section {padding-left: 2rem}
